@@ -1,12 +1,4 @@
 {
-  "name": "backend-class",
-  "version": "1.0.0",
-  "description": "package for my backend class",
-  "license": "ISC",
-  "author": "Tan Ngo",
-  "type": "commonjs",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  "author": "Tan Ngo"
+ 
 }
