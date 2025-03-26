@@ -1,4 +1,21 @@
 {
-  "author": "Tan Ngo"
- 
+  "author": "Tan Ngo",
+  "name": "backend-class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VTAN5881/backend-class.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/VTAN5881/backend-class/issues"
+  },
+  "homepage": "https://github.com/VTAN5881/backend-class#readme"
 }
